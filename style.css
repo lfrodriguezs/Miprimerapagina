@@ -1,0 +1,22 @@
+body{
+background-color: lightblue;
+color:darkblue;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-align: center;
+
+}
+p{
+    color: brown;
+}
+p{
+    color: antiquewhite;
+}
+
+p{
+    font-family: Georgia, serif;
+    font-size: 18px;
+    margin: 20px;
+}
